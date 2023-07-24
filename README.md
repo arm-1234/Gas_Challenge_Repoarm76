@@ -47,7 +47,8 @@ The library has been configured to output the estimated gas costs to a new `gas-
 
 This command will also check if the sum of the array returns 0. You can refer below to view the terminal console when all tests have passed!
 
-![stackupbounty](https://github.com/arm-1234/arcade_23stack/assets/106536873/ecb2b67f-3562-4420-9d0c-cf4b93314f56)
+![stackupbounty](https://github.com/arm-1234/Gas_Challenge_Repoarm76/assets/106536873/852f57b6-fb82-46b4-b733-b3043f6a96be)
+
 
 ## Bounty Submission
 
